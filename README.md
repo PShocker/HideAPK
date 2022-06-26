@@ -1,1 +1,1 @@
-app随机包名demo,大部分代码来源与Magisk
+app随机包名demo,大部分代码来源于Magisk
